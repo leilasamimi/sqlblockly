@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to SQL blockly
 
-You can use the [editor on GitHub](https://github.com/leilasamimi/sqlblockly/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+سلام
+این وبسایت برای تست اس کیو ال بلاکلی ساخته شده است
 
 ### Markdown
 
